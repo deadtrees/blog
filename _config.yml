@@ -1,9 +1,8 @@
-title:            "@muanchiou"
-url:              http://muan.co
+title:            "deadtrees"
+url:              http://deadtrees.github.io
 permalink:        pretty
 highlighter:      pygments
-google_analytics: UA-21332781-7
-timezone:         Asia/Taipei
+timezone:         New Zealand/Wellington
 sass:
   sass_dir: assets
   style: :compressed
